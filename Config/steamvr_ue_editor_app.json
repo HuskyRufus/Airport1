@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.airport-15973114.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "I:/sw/Unreal Engine 4/Epic Games/UE_4.25/Projects/Airport1/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Airport-15973114 [UE Editor]"
+				}
+			}
+		}
+	]
+}
